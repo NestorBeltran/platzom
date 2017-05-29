@@ -5,10 +5,10 @@ de ecucación online
 
 ## Descripción del idioma
 
--Si la palabra termina en "ar", se le quitan esos dos caracteres
--Si la palabra comienza en "z", se le añade "pe" al final
--Si la palabra traducida tiene 10 o mas letras se debe partir a la mitad y unir con un - en medio
--Si la palabra original es un palíndromo, ninguna de las reglas anteriores cuenta y se devuelve la misma palabra intercambiando mayúsculas y minúsculas
+- Si la palabra termina en "ar", se le quitan esos dos caracteres
+- Si la palabra comienza en "z", se le añade "pe" al final
+- Si la palabra traducida tiene 10 o mas letras se debe partir a la mitad y unir con un - en medio
+- Si la palabra original es un palíndromo, ninguna de las reglas anteriores cuenta y se devuelve la misma palabra intercambiando mayúsculas y minúsculas
 
 ## Instalación
 ```
